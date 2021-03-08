@@ -1,0 +1,1 @@
+This is 'NOT' Timothy's first git project!
